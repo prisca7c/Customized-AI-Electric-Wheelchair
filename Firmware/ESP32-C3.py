@@ -6,8 +6,8 @@
 #include <BLEUtils.h>
 #include <BLE2902.h>
 
-const char* ssid = "YourWiFiNetwork";
-const char* password = "YourPassword";
+const char* ssid = "MyWiFiNetwork";
+const char* password = "MyPassword";
 
 #define BLE_DEVICE_NAME "AI_Wheelchair"
 #define SERVICE_UUID "4fafc201-1fb5-459e-8fcc-c5c9c331914b"
