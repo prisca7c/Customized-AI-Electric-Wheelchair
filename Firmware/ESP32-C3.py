@@ -1,3 +1,15 @@
+# In Arduino IDE:
+Add ESP32 board support:
+   - File → Preferences → Additional Board URLs
+   - Add: https://dl.espressif.com/dl/package_esp32_index.json
+
+Install libraries:
+   - ArduinoJson by Benoit Blanchon
+   - ESP32 BLE Arduino (comes with ESP32 core)
+
+
+
+
 #include <WiFi.h>
 #include <WebServer.h>
 #include <ArduinoJson.h>
