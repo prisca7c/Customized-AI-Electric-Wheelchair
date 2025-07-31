@@ -1,6 +1,6 @@
 ---
-title: "Your Project Name"
-author: "Your name (name or slack username)"
+title: "Customized AI Electric Wheelchair"
+author: "Prisca Chien | "
 description: "Describe your project in a short sentence!"
-created_at: "2024-03-20"
+created_at: "2025-03-20"
 ---
