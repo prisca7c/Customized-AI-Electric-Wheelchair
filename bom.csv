@@ -1,0 +1,37 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+"C1,C2,C3,C4,C6,C20,C23,C25",8,C_Polarized,,,,"Capacitor_THT:CP_Radial_D5.0mm_P2.50mm",~
+"C5,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19,C22,C24",16,C,,,,"Capacitor_SMD:C_0603_1608Metric",~
+C21,1,C_45deg,,,,"Capacitor_SMD:C_0603_1608Metric",~
+D1,1,D_TVS,,,,"Diode_SMD:D_SMA",~
+"D2,D3,D4,D5,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19",16,D_Schottky,,,,"Diode_SMD:D_SMA",~
+"D6,D7",2,LED,,,,"LED_THT:LED_D5.0mm",~
+F1,1,Fuse,,,,"Fuse:Fuse_BelFuse_0ZRE0005FF_L8.3mm_W3.8mm",~
+"H1,H4",2,MountingHole,,Excluded from BOM,,"MountingHole:MountingHole_2.7mm_M2.5",~
+"H5,H6,H7,H8",4,MountingHole_Pad,,Excluded from BOM,,"MountingHole:MountingHole_3.2mm_M3_Pad",~
+"H9,H10,H11,H12",4,MountingHole_Pad,,Excluded from BOM,,"MountingHole:MountingHole_3.2mm_M3_Pad_Via",~
+J1,1,Conn_01x04,,,,"Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical_SMD_Pin1Left",~
+J2,1,Conn_01x04,,,,"Connector:FanPinHeader_1x04_P2.54mm_Vertical",~
+J3,1,Conn_02x03_Odd_Even,,,,"Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical",~
+"J4,J22",2,Conn_01x06,,,,"Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Vertical_SMD_Pin1Left",~
+J5,1,Conn_02x20_Odd_Even,,,,"Connector_Harwin:Harwin_M20-7812045_2x20_P2.54mm_Vertical",~
+"J8,J17,J18",3,Conn_01x03,,,,"Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical_SMD_Pin1Left",~
+J9,1,Conn_01x14,,,,"Connector_PinHeader_1.00mm:PinHeader_1x14_P1.00mm_Vertical_SMD_Pin1Left",~
+J10,1,Conn_01x08_Socket,,,,"Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical_SMD_Pin1Left",~
+J11,1,Conn_01x06_Socket,,,,"Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical_SMD_Pin1Left",~
+"J12,J13,J14,J15",4,Conn_01x04,,,,"Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical_SMD_Pin1Left",~
+J16,1,Conn_01x05,,,,"Connector_PinHeader_1.00mm:PinHeader_1x05_P1.00mm_Vertical_SMD_Pin1Left",~
+"J19,J20,J21",3,Conn_01x02_Pin,,,,"Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical_SMD_Pin1Left",~
+J23,1,Conn_01x02,,,,"Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical_SMD_Pin1Left",~
+J24,1,XT60-M,,,,"XT60-M:AMASS_XT60-M",
+"J25,J26",2,Screw_Terminal_01x02,,,,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",~
+"Q1,Q2,Q3,Q4",4,BSS138,,,,"Package_TO_SOT_SMD:SOT-23",https://www.onsemi.com/pub/Collateral/BSS138-D.PDF
+"R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26",26,R,,,,"Resistor_SMD:R_0603_1608Metric",~
+SW1,1,SW_SPST,,,,"Button_Switch_THT:SW_PUSH-12mm",~
+"SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9",8,SW_Push,,,,"Button_Switch_THT:SW_PUSH-12mm",~
+U1,1,LM7805_TO220,,,,"Package_TO_SOT_THT:TO-220-3_Vertical",https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF
+U2,1,AMS1117-3.3,,,,"Package_TO_SOT_SMD:SOT-223-3_TabPin2",http://www.advanced-monolithic.com/pdf/ds1117.pdf
+U3,1,MCU-ATMEGA2560-16AU_TQFP100_,,,,"MCU-ATMEGA2560-16AU_TQFP100_:TQFP100-0.5-14X14MM",
+"U4,U5,U6,U7",4,BTS7960B,,,,"BTS7960B:DPAK127P1490X440-8N",
+"U9,U10",2,L298N,,,,"Package_TO_SOT_THT:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead5.84mm_TabDown",http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000240.pdf
+U11,1,ESP32-C3-MINI-1-N4:E,,,,"ESP32-C3-MINI-1-N4:XCVR_ESP32-C3-MINI-1-N4",
+Y1,1,Crystal,,,,"Crystal:Crystal_HC49-4H_Vertical",~
