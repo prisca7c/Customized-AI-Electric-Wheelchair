@@ -1,4 +1,4 @@
-# In Arduino IDE Library Manager, install:
+Arduino IDE Install:
 - MPU6050 by Electronic Cats
 - RTClib by Adafruit
 - TinyGPSPlus by Mikal Hart
