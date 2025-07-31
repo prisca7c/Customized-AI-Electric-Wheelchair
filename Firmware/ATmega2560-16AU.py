@@ -1,3 +1,12 @@
+# In Arduino IDE Library Manager, install:
+- MPU6050 by Electronic Cats
+- RTClib by Adafruit
+- TinyGPSPlus by Mikal Hart
+- NewPing by Tim Eckel
+
+
+
+
 #include <Wire.h>
 #include <MPU6050.h>
 #include <RTClib.h>
