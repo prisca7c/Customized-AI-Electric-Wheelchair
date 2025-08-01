@@ -38,8 +38,8 @@ SW1,1,SW_SPST,,,,"Button_Switch_THT:SW_PUSH-12mm",https://www.aliexpress.com/ite
 "SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9",8,SW_Push,,,,"Button_Switch_THT:SW_PUSH-12mm",https://www.aliexpress.com/item/1005007791349282.html
 U1,1,LM7805_TO220,,,,"Package_TO_SOT_THT:TO-220-3_Vertical",https://www.aliexpress.com/item/10000200087213.html
 U2,1,AMS1117-3.3,,,,"Package_TO_SOT_SMD:SOT-223-3_TabPin2",https://www.aliexpress.com/item/1005005774011848.html
-U3,1,MCU-ATMEGA2560-16AU_TQFP100_,,,,"MCU-ATMEGA2560-16AU_TQFP100_:TQFP100-0.5-14X14MM",
+U3,1,MCU-ATMEGA2560-16AU_TQFP100_,,,,"MCU-ATMEGA2560-16AU_TQFP100_:TQFP100-0.5-14X14MM",https://www.digikey.ca/en/products/detail/microchip-technology/ATMEGA2560-16AU/735455?utm_campaign=buynow&utm_medium=aggregator&utm_source=snapeda
 "U4,U5,U6,U7",4,BTS7960B,,,,"BTS7960B:DPAK127P1490X440-8N",https://www.aliexpress.com/item/1005006757604804.html
 "U9,U10",2,L298N,,,,"Package_TO_SOT_THT:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead5.84mm_TabDown",https://www.aliexpress.com/item/1462773567.html
-U11,1,ESP32-C3-MINI-1-N4:E,,,,"ESP32-C3-MINI-1-N4:XCVR_ESP32-C3-MINI-1-N4",
+U11,1,ESP32-C3-MINI-1-N4:E,,,,"ESP32-C3-MINI-1-N4:XCVR_ESP32-C3-MINI-1-N4",https://www.aliexpress.com/item/1005007446928015.html?spm=a2g0o.cart.0.0.5c2d38da33FuHc&mp=1&pdp_npi=5%40dis%21CAD%21CAD%2015.65%21CAD%205.13%21%21CAD%205.13%21%21%21%402103146c17540197459906774ec4dd%2112000040786984393%21ct%21CA%216390044033%21%211%210
 Y1,1,Crystal,,,,"Crystal:Crystal_HC49-4H_Vertical",https://www.aliexpress.com/item/1005002830871853.html
