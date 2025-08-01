@@ -34,7 +34,7 @@ _Updated until: Jul 31
 ### 🗓️ July 29 - 17 hrs
 - Started PCB schematic
 - Finsihed PCB schematic
-Iteration 1 of the schematic
+- Iteration 1 of the schematic
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4b4b8b8afdccffbccfdec6a6b5717c06559c7f5f_img_4016.jpg)
 
 ---
@@ -42,7 +42,7 @@ Iteration 1 of the schematic
 ### 🗓️ July 30 - 15 hrs
 - Started PCB Wiring
 - Finished PCB Wiring (I will start using more modules cuz this wiring was insane to do)
-What it started out looking like
+- What it started out looking like
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f4f6b399066dbb6df82e7c2efb8668861b58bc5c_img_4015.jpg)
 
 ---
@@ -58,3 +58,5 @@ What it started out looking like
   - Control panel with all six buttons and joystick. Will add breadboard in
   - Wiring will go from the PCB through the armrest mount to the panel
 - Created GitHub repo and submitted everything!
+- Rough design work for cadding parts
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/373cf8668e08bd9e377e8acb354a16d5d8c16748_img_4017.heic)
