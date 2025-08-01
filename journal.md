@@ -11,14 +11,15 @@ CREATE DATE: July 27
 ---
 
 > Prisca: 73 hours
-> 
 
 _Updated until: Jul 31
 
+---
 
 ### 🗓️ July 27
 - Researched components for wheelchair
-- Looking for the cheapest price for all components
+- Looking for the cheapest price for all components (this actually took such a long time)
+- Searching YT tutorials and looking at companies who've made electric wheelchairs for inspiration when designing my own parts for the electric wheelchair
 
 Prisca: 12 hr
 
@@ -26,8 +27,9 @@ Prisca: 12 hr
 
 ### 🗓️ July 28
 - More research done on components for wheelchair
-- Deciding which electronics should be module and which should be embedded on the board
+- Finalizing which electronics should be module and which should be embedded on the board
 - Found all links to buy components I need for this project
+- Took dimensions of wheelchair to brainstrom 3d printable ideas
 
 Prisca: 15 hr  
 
