@@ -10,14 +10,14 @@ I built this custom wheelchair because electric wheelchairs cost too much. Also 
 
 ---
 
+## PCB Protection (elevated so I can cool it easily and also connect heatsinks and thermal pads and stuff. ALso the walls are connected with straps to legs of wheelchair)
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/807179f9a7847059bade0cff423d6ac2a8ea9139_screenshot_2025-08-01_at_12.14.26___am.png)
 ## PCB Schematic
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/db5fbfbd7e0bc10afd8826d6d762fca40e77c986_screenshot_2025-07-31_at_6.03.55___pm.png)
 ## PCB Wiring Diagram
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d84d50014f3c763e20f84c45d50b902c72ce6dd0_screenshot_2025-07-31_at_6.04.13___pm.png)
 ## 3D View of PCB
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6ea45630e6804680592502100d09f40aed760abd_screenshot_2025-07-31_at_11.53.10___pm.png)
-## PCB Protection (elevated so I can cool it easily and also connect heatsinks and thermal pads and stuff. ALso the walls are connected with straps to legs of wheelchair)
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/807179f9a7847059bade0cff423d6ac2a8ea9139_screenshot_2025-08-01_at_12.14.26___am.png)
 ## Battery Box
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed4c907d60fad636032d58342cff35c47ba04015_screenshot_2025-07-31_at_6.32.34___pm.png)
 ## Close-up of PCB Wall
