@@ -45,7 +45,7 @@ Prisca: 17 hr
 
 ### 🗓️ July 30
 - Started PCB Wiring
-- Finished PCB Wiring
+- Finished PCB Wiring (I will start using more modules cuz this wiring was insane to do)
 
 Prisca: 15 hr
 
