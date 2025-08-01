@@ -9,21 +9,29 @@ F1,1,Fuse,,,,"Fuse:Fuse_BelFuse_0ZRE0005FF_L8.3mm_W3.8mm",~
 "H1,H4",2,MountingHole,,Excluded from BOM,,"MountingHole:MountingHole_2.7mm_M2.5",~
 "H5,H6,H7,H8",4,MountingHole_Pad,,Excluded from BOM,,"MountingHole:MountingHole_3.2mm_M3_Pad",~
 "H9,H10,H11,H12",4,MountingHole_Pad,,Excluded from BOM,,"MountingHole:MountingHole_3.2mm_M3_Pad_Via",~
-J1,1,Conn_01x04,,,,"Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical_SMD_Pin1Left",~
-J2,1,Conn_01x04,,,,"Connector:FanPinHeader_1x04_P2.54mm_Vertical",~
-J3,1,Conn_02x03_Odd_Even,,,,"Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical",~
-"J4,J22",2,Conn_01x06,,,,"Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Vertical_SMD_Pin1Left",~
-J5,1,Conn_02x20_Odd_Even,,,,"Connector_Harwin:Harwin_M20-7812045_2x20_P2.54mm_Vertical",~
-"J8,J17,J18",3,Conn_01x03,,,,"Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical_SMD_Pin1Left",~
-J9,1,Conn_01x14,,,,"Connector_PinHeader_1.00mm:PinHeader_1x14_P1.00mm_Vertical_SMD_Pin1Left",~
-J10,1,Conn_01x08_Socket,,,,"Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical_SMD_Pin1Left",~
-J11,1,Conn_01x06_Socket,,,,"Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical_SMD_Pin1Left",~
-"J12,J13,J14,J15",4,Conn_01x04,,,,"Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical_SMD_Pin1Left",~
-J16,1,Conn_01x05,,,,"Connector_PinHeader_1.00mm:PinHeader_1x05_P1.00mm_Vertical_SMD_Pin1Left",~
-"J19,J20,J21",3,Conn_01x02_Pin,,,,"Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical_SMD_Pin1Left",~
-J23,1,Conn_01x02,,,,"Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical_SMD_Pin1Left",~
+J1,1,Buck_Converter_24V-5V,,,,"Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical_SMD_Pin1Left",~
+J2,1,Buck_Converter_24V-12V,,,,"Connector:FanPinHeader_1x04_P2.54mm_Vertical",~
+J3,1,ICSP_Programming_Header,,,,"Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical",~
+J4,1,USB_Serial,,,,"Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Vertical_SMD_Pin1Left",~
+J5,1,Raspberry_Pi_Zero,,,,"Connector_Harwin:Harwin_M20-7812045_2x20_P2.54mm_Vertical",~
+J8,1,Microphone,,,,"Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical_SMD_Pin1Left",~
+J9,1,TFT_3.5_Display,,,,"Connector_PinHeader_1.00mm:PinHeader_1x14_P1.00mm_Vertical_SMD_Pin1Left",~
+J10,1,MPU6050_IMU,,,,"Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical_SMD_Pin1Left",~
+J11,1,DS3231_RTC,,,,"Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical_SMD_Pin1Left",~
+J12,1,Ultrasonic_Sensor_1,,,,"Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical_SMD_Pin1Left",~
+J13,1,Ultrasonic_Sensor_2,,,,"Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical_SMD_Pin1Left",~
+J14,1,Ultrasonic_Sensor_3,,,,"Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical_SMD_Pin1Left",~
+J15,1,GPS_Module,,,,"Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical_SMD_Pin1Left",~
+J16,1,Joystick_Control,,,,"Connector_PinHeader_1.00mm:PinHeader_1x05_P1.00mm_Vertical_SMD_Pin1Left",~
+J17,1,Temperature_Sensor_1,,,,"Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical_SMD_Pin1Left",~
+J18,1,Temperature_Sensor_2,,,,"Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical_SMD_Pin1Left",~
+J19,1,Servo_1,,,,"Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical_SMD_Pin1Left",~
+J20,1,Servo_2,,,,"Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical_SMD_Pin1Left",~
+J21,1,Linear_Actuator,,,,"Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical_SMD_Pin1Left",~
+J22,1,Audio_Amplifier,,,,"Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Vertical_SMD_Pin1Left",~
+J23,1,Speaker,,,,"Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical_SMD_Pin1Left",~
 J24,1,XT60-M,,,,"XT60-M:AMASS_XT60-M",
-"J25,J26",2,Screw_Terminal_01x02,,,,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",~
+"J25,J26",2,Motor_1_Motor_2_Power,,,,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",~
 "Q1,Q2,Q3,Q4",4,BSS138,,,,"Package_TO_SOT_SMD:SOT-23",https://www.onsemi.com/pub/Collateral/BSS138-D.PDF
 "R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26",26,R,,,,"Resistor_SMD:R_0603_1608Metric",~
 SW1,1,SW_SPST,,,,"Button_Switch_THT:SW_PUSH-12mm",~
