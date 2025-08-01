@@ -1,4 +1,4 @@
-# WHEELCHAIR Project Journal !!!!!!!!!!!!!!
+# Wheelchair Project Journal!
 ---
 TITLE: Customized AI Electric Wheelchair
 
