@@ -12,7 +12,7 @@ CREATE DATE: July 27
 
 > Prisca: 73 hours
 
-_Updated until: Jul 31
+> Updated until: Jul 31
 
 ---
 
