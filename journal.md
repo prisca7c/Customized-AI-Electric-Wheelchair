@@ -16,42 +16,38 @@ _Updated until: Jul 31
 
 ---
 
-### 🗓️ July 27
+### 🗓️ July 27 - 12 hrs
 - Researched components for wheelchair
 - Looking for the cheapest price for all components (this actually took such a long time)
 - Searching YT tutorials and looking at companies who've made electric wheelchairs for inspiration when designing my own parts for the electric wheelchair
 
-Prisca: 12 hr
-
 ---
 
-### 🗓️ July 28
+### 🗓️ July 28 - 15 hrs
 - More research done on components for wheelchair (yes more research there was a lot I didn't know like TVS diodes, schottky diodes, and when to use capacitors)
 - Finalizing which electronics should be module and which should be embedded on the board
 - Found all links to buy components I need for this project
 - Took dimensions of wheelchair to brainstrom 3d printable ideas
 
-Prisca: 15 hr  
-
 ---
 
-### 🗓️ July 29
+### 🗓️ July 29 - 17 hrs
 - Started PCB schematic
 - Finsihed PCB schematic
-
-Prisca: 17 hr  
+Iteration 1 of the schematic
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4b4b8b8afdccffbccfdec6a6b5717c06559c7f5f_img_4016.jpg)
 
 ---
 
-### 🗓️ July 30
+### 🗓️ July 30 - 15 hrs
 - Started PCB Wiring
 - Finished PCB Wiring (I will start using more modules cuz this wiring was insane to do)
-
-Prisca: 15 hr
+What it started out looking like
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f4f6b399066dbb6df82e7c2efb8668861b58bc5c_img_4015.jpg)
 
 ---
 
-### 🗓️ July 31
+### 🗓️ July 31 - 14 hrs
 - Updated schematic and wiring connection pins, added mounting holes and mounting hole pads
 - Deciding whether to use copper pours or thick wiring
 - Designed and cadded all 3d printable parts based on my wheelchair
@@ -62,5 +58,3 @@ Prisca: 15 hr
   - Control panel with all six buttons and joystick. Will add breadboard in
   - Wiring will go from the PCB through the armrest mount to the panel
 - Created GitHub repo and submitted everything!
-
-Prisca: 14 hr
