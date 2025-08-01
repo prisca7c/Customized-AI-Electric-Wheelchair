@@ -4,7 +4,7 @@ TITLE: Customized AI Electric Wheelchair
 
 AUTHOR: PRISCA CHIEN (U0741Q95Y02)
 
-DESCRIPTION: JUMPING ROBOT
+DESCRIPTION: my own wheelchair with ai
 
 CREATE DATE: July 27
 
