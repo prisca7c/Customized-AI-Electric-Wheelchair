@@ -1,4 +1,4 @@
-# 📔 POPP.N-BEAN Project Journal !!!!!!!!!!!!!!
+# WHEELCHAIR Project Journal !!!!!!!!!!!!!!
 ---
 TITLE: Customized AI Electric Wheelchair
 
