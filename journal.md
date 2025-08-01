@@ -59,4 +59,4 @@ _Updated until: Jul 31
   - Wiring will go from the PCB through the armrest mount to the panel
 - Created GitHub repo and submitted everything!
 - Rough design work for cadding parts
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/373cf8668e08bd9e377e8acb354a16d5d8c16748_img_4017.jpg)
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/43a9d2fc1330624c16ef6537d5dcf59f4a01176e_screenshot_2025-08-01_at_1.18.18___am.png)
