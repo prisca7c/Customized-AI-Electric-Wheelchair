@@ -22,7 +22,7 @@ I built this custom wheelchair because electric wheelchairs cost too much. Also 
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed4c907d60fad636032d58342cff35c47ba04015_screenshot_2025-07-31_at_6.32.34___pm.png)
 ## Close-up of PCB Wall
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/66d154698feb9bb12a59409ecfde0acb4c023f62_screenshot_2025-07-31_at_6.35.55___pm.png)
-## User Control Panel
+## User Control Panel (external modules connected here)
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/22308247853b5489cdd5da76ab8be6df6bacaa96_screenshot_2025-07-31_at_10.06.07___pm.png)
 ## Handle with Lock Mechanism
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5a6ffb811a8e9d410a96445789bcb36389fe2946_screenshot_2025-07-31_at_10.58.33___pm.png)
