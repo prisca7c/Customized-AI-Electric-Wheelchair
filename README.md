@@ -17,8 +17,11 @@ PICTURES OF YOUR PROJECT
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6ea45630e6804680592502100d09f40aed760abd_screenshot_2025-07-31_at_11.53.10___pm.png)
 ## PCB Protection (connect with straps to legs of wheelchair)
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/807179f9a7847059bade0cff423d6ac2a8ea9139_screenshot_2025-08-01_at_12.14.26___am.png)
+## Battery Box
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed4c907d60fad636032d58342cff35c47ba04015_screenshot_2025-07-31_at_6.32.34___pm.png)
+## Close-up of PCB Wall
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/66d154698feb9bb12a59409ecfde0acb4c023f62_screenshot_2025-07-31_at_6.35.55___pm.png)
+## User Control Panel
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/22308247853b5489cdd5da76ab8be6df6bacaa96_screenshot_2025-07-31_at_10.06.07___pm.png)
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5a6ffb811a8e9d410a96445789bcb36389fe2946_screenshot_2025-07-31_at_10.58.33___pm.png)
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5c3626e06f13cada701cf539a6c7b979acdeacb6_screenshot_2025-07-31_at_11.15.45___pm.png)
