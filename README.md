@@ -33,7 +33,6 @@ I built this custom wheelchair because electric wheelchairs cost too much. Also 
 
 ---
 
-## BOM
 # Bill of Materials (BOM)
 
 | Reference | Qty | Description | Footprint | Purchase Link | Status |
