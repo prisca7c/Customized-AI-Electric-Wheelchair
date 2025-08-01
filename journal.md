@@ -26,7 +26,7 @@ Prisca: 12 hr
 ---
 
 ### 🗓️ July 28
-- More research done on components for wheelchair
+- More research done on components for wheelchair (yes more research there was a lot I didn't know like TVS diodes, schottky diodes, and when to use capacitors)
 - Finalizing which electronics should be module and which should be embedded on the board
 - Found all links to buy components I need for this project
 - Took dimensions of wheelchair to brainstrom 3d printable ideas
