@@ -34,52 +34,51 @@ I built this custom wheelchair because electric wheelchairs cost too much. Also 
 ---
 
 ## BOM
-Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
-"C1,C2,C3,C4,C6,C20,C23,C25",8,C_Polarized,,,,"Capacitor_THT:CP_Radial_D5.0mm_P2.50mm",https://www.aliexpress.com/item/1005002524973878.html
-"C5,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19,C22,C24",16,C,,,,"Capacitor_SMD:C_0603_1608Metric",https://www.aliexpress.com/item/33000528620.html
-C21,1,C_45deg,,,,"Capacitor_SMD:C_0603_1608Metric",https://www.aliexpress.com/item/33000528620.html
-D1,1,D_TVS,,,,"Diode_SMD:D_SMA",https://www.aliexpress.com/item/1005002276080010.html
-"D2,D3,D4,D5,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19",16,D_Schottky,,,,"Diode_SMD:D_SMA",https://www.aliexpress.com/item/4001272645647.html
-"D6,D7",2,LED,,,,"LED_THT:LED_D5.0mm",~already have
-F1,1,Fuse,,,,"Fuse:Fuse_BelFuse_0ZRE0005FF_L8.3mm_W3.8mm",~already have
-"H1,H4",2,MountingHole,,Excluded from BOM,,"MountingHole:MountingHole_2.7mm_M2.5",~
-"H5,H6,H7,H8",4,MountingHole_Pad,,Excluded from BOM,,"MountingHole:MountingHole_3.2mm_M3_Pad",~
-"H9,H10,H11,H12",4,MountingHole_Pad,,Excluded from BOM,,"MountingHole:MountingHole_3.2mm_M3_Pad_Via",~
-J1,1,Buck_Converter_24V-5V,,,,"Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical_SMD_Pin1Left",https://www.aliexpress.com/item/1005006648976219.html
-J2,1,Buck_Converter_24V-12V,,,,"Connector:FanPinHeader_1x04_P2.54mm_Vertical",https://www.aliexpress.com/item/1005004705881343.html
-J3,1,ICSP_Programming_Header,,,,"Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical",~already have
-J4,1,USB_Serial,,,,"Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Vertical_SMD_Pin1Left",~already have
-J5,1,Raspberry_Pi_Zero,,,,"Connector_Harwin:Harwin_M20-7812045_2x20_P2.54mm_Vertical",https://www.aliexpress.com/item/1005005792181612.html
-J8,1,Microphone,,,,"Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical_SMD_Pin1Left",https://www.aliexpress.com/item/4001293896057.html
-J9,1,TFT_3.5_Display,,,,"Connector_PinHeader_1.00mm:PinHeader_1x14_P1.00mm_Vertical_SMD_Pin1Left",https://www.aliexpress.com/item/1005008990800806.html
-J10,1,MPU6050_IMU,,,,"Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical_SMD_Pin1Left",https://www.aliexpress.com/item/1005005682188615.html
-J11,1,DS3231_RTC,,,,"Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical_SMD_Pin1Left",https://www.aliexpress.com/item/1005007143542894.html
-J12,1,Ultrasonic_Sensor_1,,,,"Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical_SMD_Pin1Left",~already have
-J13,1,Ultrasonic_Sensor_2,,,,"Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical_SMD_Pin1Left",~already have
-J14,1,Ultrasonic_Sensor_3,,,,"Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical_SMD_Pin1Left",~already have
-J15,1,GPS_Module,,,,"Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical_SMD_Pin1Left",https://www.aliexpress.com/item/1005006459556070.html
-J16,1,Joystick_Control,,,,"Connector_PinHeader_1.00mm:PinHeader_1x05_P1.00mm_Vertical_SMD_Pin1Left",~already have
-J17,1,Temperature_Sensor_1,,,,"Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical_SMD_Pin1Left",~already have
-J18,1,Temperature_Sensor_2,,,,"Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical_SMD_Pin1Left",~already have
-J19,1,Servo_1,,,,"Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical_SMD_Pin1Left",~already have
-J20,1,Servo_2,,,,"Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical_SMD_Pin1Left",~already have
-J21,1,Linear_Actuator,,,,"Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical_SMD_Pin1Left",~already have
-J22,1,Audio_Amplifier,,,,"Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Vertical_SMD_Pin1Left",https://www.aliexpress.com/item/1005007577064258.html
-J23,1,Speaker,,,,"Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical_SMD_Pin1Left",https://www.aliexpress.com/item/1005007504226811.html
-J24,1,XT60-M,,,,"XT60-M:AMASS_XT60-M",https://www.aliexpress.com/item/1005008955682135.html
-"J25,J26",2,Motor_1_Motor_2_Power,,,,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",https://www.aliexpress.com/item/1005003179482974.html
-"Q1,Q2,Q3,Q4",4,BSS138,,,,"Package_TO_SOT_SMD:SOT-23",https://www.aliexpress.com/item/1005009546772808.html
-"R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26",26,R,,,,"Resistor_SMD:R_0603_1608Metric",~already have
-SW1,1,SW_SPST,,,,"Button_Switch_THT:SW_PUSH-12mm",https://www.aliexpress.com/item/1005006921918648.html
-"SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9",8,SW_Push,,,,"Button_Switch_THT:SW_PUSH-12mm",https://www.aliexpress.com/item/1005007791349282.html
-U1,1,LM7805_TO220,,,,"Package_TO_SOT_THT:TO-220-3_Vertical",https://www.aliexpress.com/item/10000200087213.html
-U2,1,AMS1117-3.3,,,,"Package_TO_SOT_SMD:SOT-223-3_TabPin2",https://www.aliexpress.com/item/1005005774011848.html
-U3,1,MCU-ATMEGA2560-16AU_TQFP100_,,,,"MCU-ATMEGA2560-16AU_TQFP100_:TQFP100-0.5-14X14MM",https://www.digikey.ca/en/products/detail/microchip-technology/ATMEGA2560-16AU/735455?utm_campaign=buynow&utm_medium=aggregator&utm_source=snapeda
-"U4,U5,U6,U7",4,BTS7960B,,,,"BTS7960B:DPAK127P1490X440-8N",https://www.aliexpress.com/item/1005006757604804.html
-"U9,U10",2,L298N,,,,"Package_TO_SOT_THT:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead5.84mm_TabDown",https://www.aliexpress.com/item/1462773567.html
-U11,1,ESP32-C3-MINI-1-N4:E,,,,"ESP32-C3-MINI-1-N4:XCVR_ESP32-C3-MINI-1-N4",https://www.aliexpress.com/item/1005007446928015.html?spm=a2g0o.cart.0.0.5c2d38da33FuHc&mp=1&pdp_npi=5%40dis%21CAD%21CAD%2015.65%21CAD%205.13%21%21CAD%205.13%21%21%21%402103146c17540197459906774ec4dd%2112000040786984393%21ct%21CA%216390044033%21%211%210
-Y1,1,Crystal,,,,"Crystal:Crystal_HC49-4H_Vertical",https://www.aliexpress.com/item/1005002830871853.html
+# Bill of Materials (BOM)
 
+| Reference | Qty | Description | Footprint | Purchase Link | Status |
+|-----------|-----|-------------|-----------|---------------|---------|
+| C1,C2,C3,C4,C6,C20,C23,C25 | 8 | Polarized Capacitor | CP_Radial_D5.0mm_P2.50mm | [AliExpress](https://www.aliexpress.com/item/1005002524973878.html) | |
+| C5,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19,C22,C24 | 16 | Ceramic Capacitor | C_0603_1608Metric | [AliExpress](https://www.aliexpress.com/item/33000528620.html) | |
+| C21 | 1 | Ceramic Capacitor (45°) | C_0603_1608Metric | [AliExpress](https://www.aliexpress.com/item/33000528620.html) | |
+| D1 | 1 | TVS Diode | D_SMA | [AliExpress](https://www.aliexpress.com/item/1005002276080010.html) | |
+| D2,D3,D4,D5,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19 | 16 | Schottky Diode | D_SMA | [AliExpress](https://www.aliexpress.com/item/4001272645647.html) | |
+| D6,D7 | 2 | LED | LED_D5.0mm | - | ✅ Have |
+| F1 | 1 | Fuse | Fuse_BelFuse_0ZRE0005FF | - | ✅ Have |
+| J1 | 1 | Buck Converter 24V→5V | PinSocket_1x04_P2.54mm | [AliExpress](https://www.aliexpress.com/item/1005006648976219.html) | |
+| J2 | 1 | Buck Converter 24V→12V | FanPinHeader_1x04_P2.54mm | [AliExpress](https://www.aliexpress.com/item/1005004705881343.html) | |
+| J3 | 1 | ICSP Programming Header | PinHeader_2x03_P2.54mm | - | ✅ Have |
+| J4 | 1 | USB Serial | PinHeader_1x06_P1.00mm | - | ✅ Have |
+| J5 | 1 | Raspberry Pi Zero | Harwin_M20-7812045_2x20 | [AliExpress](https://www.aliexpress.com/item/1005005792181612.html) | |
+| J8 | 1 | Microphone | PinHeader_1x03_P1.00mm | [AliExpress](https://www.aliexpress.com/item/4001293896057.html) | |
+| J9 | 1 | TFT 3.5" Display | PinHeader_1x14_P1.00mm | [AliExpress](https://www.aliexpress.com/item/1005008990800806.html) | |
+| J10 | 1 | MPU6050 IMU | PinSocket_1x08_P2.54mm | [AliExpress](https://www.aliexpress.com/item/1005005682188615.html) | |
+| J11 | 1 | DS3231 RTC | PinSocket_1x06_P2.54mm | [AliExpress](https://www.aliexpress.com/item/1005007143542894.html) | |
+| J12 | 1 | Ultrasonic Sensor 1 | PinHeader_1x04_P1.00mm | - | ✅ Have |
+| J13 | 1 | Ultrasonic Sensor 2 | PinHeader_1x04_P1.00mm | - | ✅ Have |
+| J14 | 1 | Ultrasonic Sensor 3 | PinHeader_1x04_P1.00mm | - | ✅ Have |
+| J15 | 1 | GPS Module | PinHeader_1x04_P1.00mm | [AliExpress](https://www.aliexpress.com/item/1005006459556070.html) | |
+| J16 | 1 | Joystick Control | PinHeader_1x05_P1.00mm | - | ✅ Have |
+| J17 | 1 | Temperature Sensor 1 | PinHeader_1x03_P1.00mm | - | ✅ Have |
+| J18 | 1 | Temperature Sensor 2 | PinHeader_1x03_P1.00mm | - | ✅ Have |
+| J19 | 1 | Servo 1 | PinHeader_1x02_P1.00mm | - | ✅ Have |
+| J20 | 1 | Servo 2 | PinHeader_1x02_P1.00mm | - | ✅ Have |
+| J21 | 1 | Linear Actuator | PinHeader_1x02_P1.00mm | - | ✅ Have |
+| J22 | 1 | Audio Amplifier (LM386) | PinHeader_1x06_P1.00mm | [AliExpress](https://www.aliexpress.com/item/1005007577064258.html) | |
+| J23 | 1 | Speaker | PinHeader_1x02_P1.00mm | [AliExpress](https://www.aliexpress.com/item/1005007504226811.html) | |
+| J24 | 1 | XT60-M Power Connector | AMASS_XT60-M | [AliExpress](https://www.aliexpress.com/item/1005008955682135.html) | |
+| J25,J26 | 2 | Motor Power Terminals | TerminalBlock_Phoenix_MKDS | [AliExpress](https://www.aliexpress.com/item/1005003179482974.html) | |
+| Q1,Q2,Q3,Q4 | 4 | BSS138 MOSFET | SOT-23 | [AliExpress](https://www.aliexpress.com/item/1005009546772808.html) | |
+| R1-R26 | 26 | Resistor | R_0603_1608Metric | - | ✅ Have |
+| SW1 | 1 | SPST Switch | SW_PUSH-12mm | [AliExpress](https://www.aliexpress.com/item/1005006921918648.html) | |
+| SW2-SW9 | 8 | Push Button | SW_PUSH-12mm | [AliExpress](https://www.aliexpress.com/item/1005007791349282.html) | |
+| U1 | 1 | LM7805 Voltage Regulator | TO-220-3_Vertical | [AliExpress](https://www.aliexpress.com/item/10000200087213.html) | |
+| U2 | 1 | AMS1117-3.3 Regulator | SOT-223-3_TabPin2 | [AliExpress](https://www.aliexpress.com/item/1005005774011848.html) | |
+| U3 | 1 | ATMEGA2560-16AU MCU | TQFP100-0.5-14X14MM | [Digi-Key](https://www.digikey.ca/en/products/detail/microchip-technology/ATMEGA2560-16AU/735455) | |
+| U4,U5,U6,U7 | 4 | BTS7960B Motor Driver | DPAK127P1490X440-8N | [AliExpress](https://www.aliexpress.com/item/1005006757604804.html) | |
+| U9,U10 | 2 | L298N Motor Driver | TO-220-15_P2.54x2.54mm | [AliExpress](https://www.aliexpress.com/item/1462773567.html) | |
+| U11 | 1 | ESP32-C3-MINI WiFi Module | XCVR_ESP32-C3-MINI-1-N4 | [AliExpress](https://www.aliexpress.com/item/1005007446928015.html) | |
+| Y1 | 1 | Crystal Oscillator | Crystal_HC49-4H_Vertical | [AliExpress](https://www.aliexpress.com/item/1005002830871853.html) | |
 
 
 
