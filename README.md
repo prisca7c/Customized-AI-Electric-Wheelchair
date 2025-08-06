@@ -10,6 +10,14 @@ I built this custom wheelchair because electric wheelchairs cost too much. Also 
 
 ---
 
+## Full 3D Model of Wheelchair with Electronics
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9ef42af1dc72892254d0cdadde1c66c3e4e380e8_screenshot_2025-08-06_at_12.07.19___pm.png)
+## Control Panel and Wiring through Armrest
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e304be568c29bdc4a652c7d5ae69012f8eb845de_screenshot_2025-08-06_at_12.06.34___pm.png)
+## Walker Handle and Lock Mechanism (my actual wheelchair can pull down the backrest)
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5c77c485590658636347bab8060a6aa8834254e4_screenshot_2025-08-06_at_12.06.42___pm.png)
+## PCB Walls and Battery Box will be connected via straps to the 4 bars of the wheelchair legs
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/166f4aef03582ae01d89af806c910cd2c8c8cbac_screenshot_2025-08-06_at_12.11.10___pm.png)
 ## PCB Protection (elevated so I can cool it easily and also connect heatsinks and thermal pads and stuff. ALso the walls are connected with straps to legs of wheelchair)
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/807179f9a7847059bade0cff423d6ac2a8ea9139_screenshot_2025-08-01_at_12.14.26___am.png)
 ## PCB Schematic
