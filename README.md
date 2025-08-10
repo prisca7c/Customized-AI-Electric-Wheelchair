@@ -22,10 +22,10 @@ I built this custom wheelchair because electric wheelchairs cost too much. Also 
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/807179f9a7847059bade0cff423d6ac2a8ea9139_screenshot_2025-08-01_at_12.14.26___am.png)
 ## PCB Schematic
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/db5fbfbd7e0bc10afd8826d6d762fca40e77c986_screenshot_2025-07-31_at_6.03.55___pm.png)
-## PCB Wiring Diagram
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d84d50014f3c763e20f84c45d50b902c72ce6dd0_screenshot_2025-07-31_at_6.04.13___pm.png)
+## PCB Wiring Diagram (strapping 24V fan on just in case it does overheat)
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2088c6bd565283fb86d54fb9dd4002a4eb6d0ba1_screenshot_2025-08-10_at_12.36.56___am.png)
 ## 3D View of PCB
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6ea45630e6804680592502100d09f40aed760abd_screenshot_2025-07-31_at_11.53.10___pm.png)
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c32bfd65033bf6cd5111087478672b11de6f7187_screenshot_2025-08-10_at_12.43.31___am.png)
 ## Battery Box
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed4c907d60fad636032d58342cff35c47ba04015_screenshot_2025-07-31_at_6.32.34___pm.png)
 ## Close-up of PCB Wall
