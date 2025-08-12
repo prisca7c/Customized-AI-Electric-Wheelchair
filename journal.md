@@ -58,6 +58,7 @@ for the atmega2560 i used the 100-pin tqfp package and broke out all the importa
 - signal routing came next. high speed signals like spi between atmega and esp32 kept short with ground plane underneath. analog signals routed away from digital switching circuits. used differential pairs for critical signals where possible.
 - finished routing all the traces but its super dense and complicated. had to use vias to jump between layers constantly. some traces had to snake around quite a bit to avoid crossing other signals.
 - thinking i need more modular design for next version. maybe separate the motor drivers completely and use ribbon cables to connect them. would make the main board smaller and easier to route.
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f4f6b399066dbb6df82e7c2efb8668861b58bc5c_img_4015.jpg)
 
 ---
 
