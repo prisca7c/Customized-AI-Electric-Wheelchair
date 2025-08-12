@@ -60,6 +60,7 @@ for the atmega2560 i used the 100-pin tqfp package and broke out all the importa
 - thinking i need more modular design for next version. maybe separate the motor drivers completely and use ribbon cables to connect them. would make the main board smaller and easier to route.
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f4f6b399066dbb6df82e7c2efb8668861b58bc5c_img_4015.jpg)
 
+
 ---
 
 ### 🗓️ July 31 - 14 hrs
@@ -76,6 +77,18 @@ designed all the 3d printed parts in fusion 360:
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dde2975a7834dd27be6fe814b98f4b9c917eae85_img_4104.jpg)
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1cce8a3d3d8a3752042effd20807f4ea787c0949_img_4106.jpg)
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/43a9d2fc1330624c16ef6537d5dcf59f4a01176e_screenshot_2025-08-01_at_1.18.18___am.png)
+## Battery Box
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed4c907d60fad636032d58342cff35c47ba04015_screenshot_2025-07-31_at_6.32.34___pm.png)
+## Close-up of PCB Wall
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/66d154698feb9bb12a59409ecfde0acb4c023f62_screenshot_2025-07-31_at_6.35.55___pm.png)
+## User Control Panel (external modules connected here)
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/22308247853b5489cdd5da76ab8be6df6bacaa96_screenshot_2025-07-31_at_10.06.07___pm.png)
+## Handle with Lock Mechanism
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5a6ffb811a8e9d410a96445789bcb36389fe2946_screenshot_2025-07-31_at_10.58.33___pm.png)
+## Close-up of Lock Mechanism (will superglue spring and magnet)
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5c3626e06f13cada701cf539a6c7b979acdeacb6_screenshot_2025-07-31_at_11.15.45___pm.png)
+## Wire Support on Armrest
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3f076fdad0a60809efd0247c3fd230b4fd30fb90_screenshot_2025-07-31_at_11.17.25___pm.png)
 
 ---
 
@@ -86,6 +99,14 @@ designed all the 3d printed parts in fusion 360:
 - changed some connectors from molex to screw terminals for easier field connections. also switched some headers from through-hole to surface mount to save space. used pogo pin connectors for programming headers so they dont take up permanent board space.
 - updated the 3d models to match the real wheelchair measurements. had to adjust battery box height to clear the seat cushion and make the cable routing work properly.
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/166f4aef03582ae01d89af806c910cd2c8c8cbac_screenshot_2025-08-06_at_12.11.10___pm.png)
+## Control Panel and Wiring through Armrest
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e304be568c29bdc4a652c7d5ae69012f8eb845de_screenshot_2025-08-06_at_12.06.34___pm.png)
+## Walker Handle and Lock Mechanism (my actual wheelchair can pull down the backrest)
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5c77c485590658636347bab8060a6aa8834254e4_screenshot_2025-08-06_at_12.06.42___pm.png)
+## PCB Walls and Battery Box will be connected via straps to the 4 bars of the wheelchair legs
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9ef42af1dc72892254d0cdadde1c66c3e4e380e8_screenshot_2025-08-06_at_12.07.19___pm.png)
+## PCB Protection (elevated so I can cool it easily and also connect heatsinks and thermal pads and stuff. ALso the walls are connected with straps to legs of wheelchair)
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/807179f9a7847059bade0cff423d6ac2a8ea9139_screenshot_2025-08-01_at_12.14.26___am.png)
 
 ---
 
