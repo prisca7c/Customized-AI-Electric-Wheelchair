@@ -83,6 +83,7 @@ designed all the 3d printed parts in fusion 360:
 - added space for extra buck converter module on the pcb for voltage flexibility. thinking i might need 9v or 15v for some sensors later so having an empty module slot is good future proofing.
 - changed some connectors from molex to screw terminals for easier field connections. also switched some headers from through-hole to surface mount to save space. used pogo pin connectors for programming headers so they dont take up permanent board space.
 - updated the 3d models to match the real wheelchair measurements. had to adjust battery box height to clear the seat cushion and make the cable routing work properly.
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/166f4aef03582ae01d89af806c910cd2c8c8cbac_screenshot_2025-08-06_at_12.11.10___pm.png)
 
 ---
 
@@ -100,3 +101,4 @@ designed all the 3d printed parts in fusion 360:
 ### 🗓️ August 10 - 2 hrs
 - finished applying copper pours - 12v on front layer and 24v on back layer. double checked that pours dont create shorts and respect all the net boundaries.
 - updated project files and made renders of the final design.
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2088c6bd565283fb86d54fb9dd4002a4eb6d0ba1_screenshot_2025-08-10_at_12.36.56___am.png)
