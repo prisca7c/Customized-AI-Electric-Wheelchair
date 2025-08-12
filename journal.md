@@ -10,7 +10,7 @@ CREATE DATE: July 27
 
 ---
 
-> Prisca: 82 hours
+> Prisca: 84 hours
 
 > Updated until: Aug 10
 
@@ -18,14 +18,18 @@ CREATE DATE: July 27
 
 ### 🗓️ July 27 - 12 hrs
 - Researched components for wheelchair
+- Includes the power sources, motors, all external components I want to add on the wheelchair, and wires I will need
 - Looking for the cheapest price for all components (this actually took such a long time)
+- Explore different functions I could add (eg, I can use AI in my project so I am using a Raspberry Pi to communicate via the PCB to the ESP32 and ATMEGA2560)
 - Searching YT tutorials and looking at companies who've made electric wheelchairs for inspiration when designing my own parts for the electric wheelchair
 
 ---
 
 ### 🗓️ July 28 - 15 hrs
 - More research done on components for wheelchair (yes more research there was a lot I didn't know like TVS diodes, schottky diodes, and when to use capacitors)
+- Continued researching how I can prevent the PCB from frying up by adding all these resistor components
 - Finalizing which electronics should be module and which should be embedded on the board
+- By finalizing all electronics, I know which the exact model and which footprints I use on my schematic
 - Found all links to buy components I need for this project
 - Took dimensions of wheelchair to brainstrom 3d printable ideas
 
@@ -33,6 +37,7 @@ CREATE DATE: July 27
 
 ### 🗓️ July 29 - 17 hrs
 - Started PCB schematic
+- 
 - Finsihed PCB schematic
 - Iteration 1 of the schematic
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4b4b8b8afdccffbccfdec6a6b5717c06559c7f5f_img_4016.jpg)
@@ -67,6 +72,12 @@ CREATE DATE: July 27
 
 ### 🗓️ August 6 - 3 hrs
 - Made wheelchair CAD and fitted it to IRL dimensions
+- Rendered final wheelchair model with cadded prints (in yellow)
+- Started iteration 2 of the schematic by adding:
+  - mounting holes
+  - mounting hole pads
+  - extra buck convertor as a module (so a 4 socket connection on the PCB)
+  - replaced some pin connections as screw terminals or socket connections as it is much easier to connect them externally
 
 ---
 
