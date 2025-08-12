@@ -10,7 +10,7 @@ CREATE DATE: July 27
 
 ---
 
-> Prisca: 84 hours
+> Prisca: 89 hours
 
 > Updated until: Aug 10
 
@@ -34,6 +34,8 @@ made a list of all the external stuff i need like joystick controller, magnetic 
 - took measurements of the actual wheelchair so i can design the 3d printed parts to fit. wheelchair frame tubes are 25mm diameter, seat is 18 inches wide, armrests are 24 inches long and 2 inches wide. battery box needs to fit under the seat without interfering with leg room.
 - realized the power traces on the circuit board might be too thick for the available space. for 10a continuous current need at least 0.2 inch wide traces on 1oz copper but that takes up too much room. might need to use copper pours instead of just traces, or go to 2oz copper thickness.
 - feel good about understanding surge protection now. ready to start drawing the schematic.
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dde2975a7834dd27be6fe814b98f4b9c917eae85_img_4104.jpg)
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1cce8a3d3d8a3752042effd20807f4ea787c0949_img_4106.jpg)
 
 ---
 
@@ -74,8 +76,6 @@ designed all the 3d printed parts in fusion 360:
 - control panel with 6 buttons plus analog joystick - waterproof membrane switches with tactile feedback. joystick is hall effect type for reliability. panel mounts to the armrest via magnetic connector so it can be removed for cleaning or replacement.
 - created github repository "ai-wheelchair" to store all my design files. organized into folders for mechanical parts, electronics, firmware, and documentation.
 - all the mechanical parts need to work together with the electronics placement. spent time making sure connector locations on the pcb line up with cable routing in the 3d printed parts.
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dde2975a7834dd27be6fe814b98f4b9c917eae85_img_4104.jpg)
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1cce8a3d3d8a3752042effd20807f4ea787c0949_img_4106.jpg)
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/43a9d2fc1330624c16ef6537d5dcf59f4a01176e_screenshot_2025-08-01_at_1.18.18___am.png)
 ## Battery Box
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed4c907d60fad636032d58342cff35c47ba04015_screenshot_2025-07-31_at_6.32.34___pm.png)
@@ -85,6 +85,8 @@ designed all the 3d printed parts in fusion 360:
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/22308247853b5489cdd5da76ab8be6df6bacaa96_screenshot_2025-07-31_at_10.06.07___pm.png)
 ## Handle with Lock Mechanism
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5a6ffb811a8e9d410a96445789bcb36389fe2946_screenshot_2025-07-31_at_10.58.33___pm.png)
+## PCB Protection (elevated so I can cool it easily and also connect heatsinks and thermal pads and stuff. ALso the walls are connected with straps to legs of wheelchair)
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/807179f9a7847059bade0cff423d6ac2a8ea9139_screenshot_2025-08-01_at_12.14.26___am.png)
 ## Close-up of Lock Mechanism (will superglue spring and magnet)
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5c3626e06f13cada701cf539a6c7b979acdeacb6_screenshot_2025-07-31_at_11.15.45___pm.png)
 ## Wire Support on Armrest
@@ -92,7 +94,7 @@ designed all the 3d printed parts in fusion 360:
 
 ---
 
-### 🗓️ August 6 - 3 hrs
+### 🗓️ August 6 - 4 hrs
 - modeled the whole wheelchair in cad using real measurements. main frame is welded steel tube construction, seat dimensions are 18" wide by 16" deep, backrest is 18" tall. integrated the battery box under the seat - had to adjust dimensions to clear the cross braces and leave room for user's legs.
 - pcb housing mounts to the frame behind the seat where its protected but still accessible. used aluminum angle brackets to attach to the frame tubes. housing is positioned so all the connectors face outward for easy cable access.
 - added space for extra buck converter module on the pcb for voltage flexibility. thinking i might need 9v or 15v for some sensors later so having an empty module slot is good future proofing.
@@ -105,12 +107,10 @@ designed all the 3d printed parts in fusion 360:
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5c77c485590658636347bab8060a6aa8834254e4_screenshot_2025-08-06_at_12.06.42___pm.png)
 ## PCB Walls and Battery Box will be connected via straps to the 4 bars of the wheelchair legs
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9ef42af1dc72892254d0cdadde1c66c3e4e380e8_screenshot_2025-08-06_at_12.07.19___pm.png)
-## PCB Protection (elevated so I can cool it easily and also connect heatsinks and thermal pads and stuff. ALso the walls are connected with straps to legs of wheelchair)
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/807179f9a7847059bade0cff423d6ac2a8ea9139_screenshot_2025-08-01_at_12.14.26___am.png)
 
 ---
 
-### 🗓️ August 7-9 - 6 hrs
+### 🗓️ August 7-9 - 10 hrs
 - learned about thermal management for pcbs. thermal vias are basically small holes filled with copper that transfer heat from hot components on top of the board down to the ground plane for heat spreading. added thermal vias under the atmega2560, voltage regulators, and motor driver connectors.
 - set up net classes in kicad to automatically manage trace widths. power nets get thick traces (1-2mm), high speed signals get controlled impedance (0.15mm with specific spacing), and regular io gets standard 0.1mm traces. this makes routing much more consistent and professional looking.
 - copper pours are basically large areas of copper connected to specific nets. used copper pours for the main voltage rails and ground. 24v pour covers most of the top layer around the power section, 12v pour covers the motor driver area, 5v pour covers the logic section, and ground pour covers the entire bottom layer.
