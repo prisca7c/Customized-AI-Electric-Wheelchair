@@ -73,6 +73,8 @@ designed all the 3d printed parts in fusion 360:
 - control panel with 6 buttons plus analog joystick - waterproof membrane switches with tactile feedback. joystick is hall effect type for reliability. panel mounts to the armrest via magnetic connector so it can be removed for cleaning or replacement.
 - created github repository "ai-wheelchair" to store all my design files. organized into folders for mechanical parts, electronics, firmware, and documentation.
 - all the mechanical parts need to work together with the electronics placement. spent time making sure connector locations on the pcb line up with cable routing in the 3d printed parts.
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dde2975a7834dd27be6fe814b98f4b9c917eae85_img_4104.jpg)
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1cce8a3d3d8a3752042effd20807f4ea787c0949_img_4106.jpg)
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/43a9d2fc1330624c16ef6537d5dcf59f4a01176e_screenshot_2025-08-01_at_1.18.18___am.png)
 
 ---
