@@ -12,32 +12,12 @@ I built this custom wheelchair because electric wheelchairs cost too much. Also 
 
 ## Full 3D Model of Wheelchair with Electronics (will not have those cuffs IRL 💀)
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/166f4aef03582ae01d89af806c910cd2c8c8cbac_screenshot_2025-08-06_at_12.11.10___pm.png)
-## Control Panel and Wiring through Armrest
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e304be568c29bdc4a652c7d5ae69012f8eb845de_screenshot_2025-08-06_at_12.06.34___pm.png)
-## Walker Handle and Lock Mechanism (my actual wheelchair can pull down the backrest)
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5c77c485590658636347bab8060a6aa8834254e4_screenshot_2025-08-06_at_12.06.42___pm.png)
-## PCB Walls and Battery Box will be connected via straps to the 4 bars of the wheelchair legs
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9ef42af1dc72892254d0cdadde1c66c3e4e380e8_screenshot_2025-08-06_at_12.07.19___pm.png)
-## PCB Protection (elevated so I can cool it easily and also connect heatsinks and thermal pads and stuff. ALso the walls are connected with straps to legs of wheelchair)
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/807179f9a7847059bade0cff423d6ac2a8ea9139_screenshot_2025-08-01_at_12.14.26___am.png)
 ## PCB Schematic
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/db5fbfbd7e0bc10afd8826d6d762fca40e77c986_screenshot_2025-07-31_at_6.03.55___pm.png)
 ## PCB Wiring Diagram (strapping 24V fan on just in case it does overheat), back copper pours for 24V, front copper pours for 12V I can't fit the wires if they're too large
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2088c6bd565283fb86d54fb9dd4002a4eb6d0ba1_screenshot_2025-08-10_at_12.36.56___am.png)
 ## 3D View of PCB
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c32bfd65033bf6cd5111087478672b11de6f7187_screenshot_2025-08-10_at_12.43.31___am.png)
-## Battery Box
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed4c907d60fad636032d58342cff35c47ba04015_screenshot_2025-07-31_at_6.32.34___pm.png)
-## Close-up of PCB Wall
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/66d154698feb9bb12a59409ecfde0acb4c023f62_screenshot_2025-07-31_at_6.35.55___pm.png)
-## User Control Panel (external modules connected here)
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/22308247853b5489cdd5da76ab8be6df6bacaa96_screenshot_2025-07-31_at_10.06.07___pm.png)
-## Handle with Lock Mechanism
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5a6ffb811a8e9d410a96445789bcb36389fe2946_screenshot_2025-07-31_at_10.58.33___pm.png)
-## Close-up of Lock Mechanism (will superglue spring and magnet)
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5c3626e06f13cada701cf539a6c7b979acdeacb6_screenshot_2025-07-31_at_11.15.45___pm.png)
-## Wire Support on Armrest
-![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3f076fdad0a60809efd0247c3fd230b4fd30fb90_screenshot_2025-07-31_at_11.17.25___pm.png)
 
 ---
 
