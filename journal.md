@@ -10,9 +10,9 @@ CREATE DATE: July 27
 
 ---
 
-> Prisca: 73 hours
+> Prisca: 82 hours
 
-> Updated until: Jul 31
+> Updated until: Aug 10
 
 ---
 
@@ -40,7 +40,9 @@ CREATE DATE: July 27
 ---
 
 ### 🗓️ July 30 - 15 hrs
-- Started PCB Wiring
+- Planned structure and placement of PCB components
+  - Power components will be on the outside on opposite sides of each other. The power inputs will be on the left and the power outputs (eg, motors) will be on the right side
+  - ATMEGA2560 will go in the middle as it is the microcontroller most used. The other microcontrollers, including Raspberry Pi connecting pins and ESP32 chipset are placed on the 
 - Finished PCB Wiring (I will start using more modules cuz this wiring was insane to do)
 - What it started out looking like
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f4f6b399066dbb6df82e7c2efb8668861b58bc5c_img_4015.jpg)
@@ -60,3 +62,25 @@ CREATE DATE: July 27
 - Created GitHub repo and submitted everything!
 - Rough design work for cadding parts
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/43a9d2fc1330624c16ef6537d5dcf59f4a01176e_screenshot_2025-08-01_at_1.18.18___am.png)
+
+---
+
+### 🗓️ August 6 - 3 hrs
+- Made wheelchair CAD and fitted it to IRL dimensions
+
+---
+
+### 🗓️ August 7-9 - 6 hrs
+- Learned about thermal vias, netclasses, copper pours, etc of anything to cool the PCB down
+- Created netclasses for +5V, +12V, and +24V
+- Updated all power traces with the best wire size possible. If the trace is not wide enough (eg, +24V needs to be 5mm but I can only afford 3mm of space), I will put copper pours over it to disperse the heat around
+- Rewired +5V, +12V, +24V, and GND to fit around all components such that no errors or warnings are seen when I run the DMC
+- In the case that the ATMEGA2560 gets too hot, I plan to strap down a 24V to the PCB walls and 
+
+---
+
+### 🗓️ August 10 - 2 hrs
+- Finished putting the copper pours over the +24v and +12V wiring
+- Front PCB of copper pour is for +12V
+- Back PCB of copper pour is for +24V
+- Updated journal
